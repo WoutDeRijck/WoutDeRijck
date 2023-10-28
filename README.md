@@ -1,6 +1,6 @@
 ### Hi there 👋, Wout De Rijck
 #### Software development and AI-expert
-![Software development and AI-expert](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Software development and AI-expert]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/WoutDeRijck/WoutDeRijck/blob/main/Personal%20Banner.jpg))
 
 I'm Wout from Belgium.
 

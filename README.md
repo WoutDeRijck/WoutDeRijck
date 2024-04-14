@@ -1,5 +1,5 @@
 ### Hi there 👋, Wout De Rijck
-#### Software development and AI-expert
+#### Software development and AI-enthusiast
 
 I'm Wout from Belgium.
 

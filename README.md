@@ -1,11 +1,5 @@
 ### Hi there 👋, Wout De Rijck
-#### Software development and AI-enthusiast
-
-I'm Wout from Belgium.
-
-I come from a strong background in Computer Science Engineering and my key strengths as a developer lie in my attention to detail, strong problem-solving abilities, and a passion for creating clean and efficient code. I am particularly interested in Artificial Intelligence and Quantum Computing, where I continuously strive to expand my knowledge and stay updated with the latest developments in the field.
-
-Skills:  Python/Java/C/C++/C#/git/Docker/... 
+Skills:  Python/Java/TypeScript/C/C++/C#/git/Docker/...
 
 - 🌱 I’m currently learning Everything about LLM's 
 - 📫 How to reach me: derijck.2001@icloud.com
